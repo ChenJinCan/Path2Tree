@@ -29,6 +29,7 @@ if __name__ == '__main__':
 	print(p2t.get_tree())
 ```
 
+## Output Tree Structure
 
 ```python
 [
